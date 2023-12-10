@@ -10,6 +10,7 @@ namespace Module15
     {
         static void Main(string[] args)
         {
+            Practice.Start();
         }
     }
 }
